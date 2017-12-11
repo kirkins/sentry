@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`OrganizationAccessRequests renders empty 1`] = `null`;
+exports[`OrganizationAccessRequests renders empty 1`] = `""`;
 
 exports[`OrganizationAccessRequests renders list 1`] = `
 <div
@@ -20,19 +20,31 @@ exports[`OrganizationAccessRequests renders list 1`] = `
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr
+        key="0"
+      >
         <td>
-          <span>
-            <strong>
+          <span
+            key="5"
+          >
+            <strong
+              key="0"
+            >
               sentry@test.com
             </strong>
-            <span>
+            <span
+              key="1"
+            >
                requests access to the 
             </span>
-            <strong>
+            <strong
+              key="2"
+            >
               Team Name
             </strong>
-            <span>
+            <span
+              key="3"
+            >
                team.
             </span>
           </span>

@@ -121,7 +121,9 @@ exports[`OrganizationApiKeysView renders 1`] = `
           />
         </colgroup>
         <tbody>
-          <tr>
+          <tr
+            key="aa624bcc12024702a202cd90be5feda0"
+          >
             <td>
               <h5>
                 <Link
@@ -212,6 +214,7 @@ exports[`OrganizationApiKeysView renders 1`] = `
                       bsClass="modal"
                       dialogComponentClass={[Function]}
                       enforceFocus={true}
+                      key="confirm"
                       keyboard={true}
                       manager={
                         ModalManager {

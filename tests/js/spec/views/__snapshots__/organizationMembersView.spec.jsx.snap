@@ -166,6 +166,7 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
                   },
                 }
               }
+              key="1"
               member={
                 Object {
                   "email": "",
@@ -193,7 +194,9 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
               orgName="Organization Name"
               requireLink={false}
             >
-              <tr>
+              <tr
+                key="1"
+              >
                 <td
                   className="table-user-info"
                 >
@@ -356,6 +359,7 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
                   },
                 }
               }
+              key="2"
               member={
                 Object {
                   "email": "",
@@ -383,7 +387,9 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
               orgName="Organization Name"
               requireLink={false}
             >
-              <tr>
+              <tr
+                key="2"
+              >
                 <td
                   className="table-user-info"
                 >
@@ -536,6 +542,7 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
                   },
                 }
               }
+              key="3"
               member={
                 Object {
                   "email": "",
@@ -563,7 +570,9 @@ exports[`OrganizationMembersView No Require Link does not have 2fa warning if us
               orgName="Organization Name"
               requireLink={false}
             >
-              <tr>
+              <tr
+                key="3"
+              >
                 <td
                   className="table-user-info"
                 >
@@ -868,6 +877,7 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
                   },
                 }
               }
+              key="1"
               member={
                 Object {
                   "email": "",
@@ -895,7 +905,9 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
               orgName="Organization Name"
               requireLink={true}
             >
-              <tr>
+              <tr
+                key="1"
+              >
                 <td
                   className="table-user-info"
                 >
@@ -1095,6 +1107,7 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
                   },
                 }
               }
+              key="2"
               member={
                 Object {
                   "email": "",
@@ -1122,7 +1135,9 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
               orgName="Organization Name"
               requireLink={true}
             >
-              <tr>
+              <tr
+                key="2"
+              >
                 <td
                   className="table-user-info"
                 >
@@ -1322,6 +1337,7 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
                   },
                 }
               }
+              key="3"
               member={
                 Object {
                   "email": "",
@@ -1349,7 +1365,9 @@ exports[`OrganizationMembersView Require Link does not have 2fa warning if user 
               orgName="Organization Name"
               requireLink={true}
             >
-              <tr>
+              <tr
+                key="3"
+              >
                 <td
                   className="table-user-info"
                 >
